@@ -531,24 +531,40 @@ p.tab-para1a
 	border-top:2px solid #000000;
 	padding-top:0.3em;
 	padding-bottom:0.3em;
-        margin-top:0em;
+    margin-top:0em;
 }
 .bor-b1
 {
 	border-bottom:2px solid #000000;
 	padding-top:0.3em;
 	padding-bottom:0.3em;
-        margin-top:0em;
+    margin-top:0em;
 }
 p.tab-caption
 {
 	font-family:Arial;
-        font-size:100%;
+    font-size:100%;
 	margin-top:1.2em;
 	margin-bottom:0.3em;
 	text-indent:0em;
 	text-align:left;
 	font-weight:normal;
+}
+.sr-only:not(:focus):not(:active)
+{
+font-size: 100%;
+line-height: 1.25em;
+text-align: center;
+text-indent: 0em;
+margin-right: 2em;
+margin-left: 2em;
+}
+.pageavoid
+{
+page-break-inside: avoid;
+text-indent: 0em;
+margin-top: 0em;
+padding-bottom: 10px;
 }
 p.figcap
 {
@@ -567,7 +583,7 @@ p.figcapa
 	margin-top:1.2em;
 	margin-bottom:0em;
 	text-indent:0em;
-	text-align:center;
+	text-align:justify;
 	font-weight:normal;
 }
 p.figcap1
@@ -577,7 +593,7 @@ p.figcap1
 	margin-top:0em;
 	margin-bottom:1.2em;
 	text-indent:0em;
-	text-align:center;
+	text-align:justify;
 	font-weight:normal;
 }
 .img-1
