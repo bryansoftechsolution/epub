@@ -553,17 +553,17 @@ p.tab-caption
 p.figcap
 {
 	font-family:Arial;
-        font-size:100%;
+    font-size:100%;
 	margin-top:1.2em;
 	margin-bottom:1.2em;
 	text-indent:0em;
-	text-align:center;
+	text-align:justify;
 	font-weight:normal;
 }
 p.figcapa
 {
 	font-family:Arial;
-        font-size:100%;
+    font-size:100%;
 	margin-top:1.2em;
 	margin-bottom:0em;
 	text-indent:0em;
@@ -830,6 +830,9 @@ margin-left:0em;
 margin-top:0.5em;
 margin-bottom:0em;
 padding:0em;
+margin-left:1.5em;
+margin-right:1.5em;
+font-size:90%;
 } 
 ol.none
 {
