@@ -20,7 +20,14 @@ span.underline
 {
 text-decoration: underline;
 }
-
+.lineau
+{
+	border-bottom:3px solid black;
+	margin-top:-2em;
+	margin-bottom:1.5em;
+	padding-top:0.3em;
+	padding-bottom:0.5em;
+}
 
 h1.title
 {
@@ -223,6 +230,14 @@ p.right
 	margin-bottom:0em;
 	text-indent:0em;
 	text-align:right;
+}
+  p.center
+{
+    margin-top:1em;
+    margin-bottom:0em;
+    text-align:center;
+    text-indent:0em;
+    margin-left:0em;
 }
 .chap-num
 {
@@ -452,6 +467,16 @@ p.tab-para1a
 	text-align:center;
 	text-indent:0em;
 	font-weight:bold;
+}
+.h3-no-bold
+{
+	font-family:Arial;
+	font-size:120%;
+	margin-top:1em;
+	margin-bottom:0.5em;
+	text-align:center;
+	text-indent:0em;
+	font-weight:normal;
 }
 .h4
 {
