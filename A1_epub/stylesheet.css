@@ -35,7 +35,7 @@ h1.title
 	font-size:200%;
 	margin-top:1em;
 	margin-bottom:0.2em;
-	text-align:left;
+	text-align:center;
 	text-indent:0em;
 	margin-left: 0em;
 	margin-right: 0em;
@@ -270,6 +270,15 @@ h2.chap-title1
 	text-align:center;
 	font-weight: bold;
 }
+h2.h2
+{
+	font-family:Arial;
+	font-size:120%;
+	margin-top:0em;
+	margin-bottom:1em;
+	text-align:center;
+	font-weight: bold;
+}
 .chap-au
 {
 	font-family:Arial;
@@ -471,10 +480,10 @@ p.tab-para1a
 .h3-no-bold
 {
 	font-family:Arial;
-	font-size:120%;
+	font-size:110%;
 	margin-top:1em;
 	margin-bottom:0.5em;
-	text-align:center;
+	text-align:left;
 	text-indent:0em;
 	font-weight:normal;
 }
