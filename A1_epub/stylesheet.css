@@ -291,7 +291,7 @@ h2.h2
 {
 	font-family:Arial;
 	font-size:120%;
-	margin-top:0em;
+	margin-top:1em;
 	margin-bottom:1em;
 	text-align:center;
 	font-weight: bold;
@@ -507,7 +507,7 @@ p.tab-para1a
 .h4
 {
 	font-family:Arial;
-	font-size:110%;
+	font-size:100%;
 	margin-top:1em;
 	margin-bottom:0.5em;
 	text-align:left;
