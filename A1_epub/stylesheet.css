@@ -837,3 +837,151 @@ list-style-type: none;
 padding: 0;
 margin: 0;
 }
+/* Chapter Standanred Tables */
+table.tablech
+{
+font-size:90%;
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:center;
+margin-left:0em;
+text-indent:0em;
+font-weight: normal;
+border-bottom:2px solid #000000;
+border-top:2px solid #000000;
+border-collapse:collapse;
+vertical-align:bottom;
+width:100%;
+}
+tr.row-gray
+{
+background-color: lightgray;
+}
+
+th.th-center-bottom
+{
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:center;
+margin-left:0em;
+text-indent:0em;
+font-weight: normal;
+border-bottom:1px solid #000000;
+padding:0.2em 0.2em 0.5em 0.5em;
+vertical-align:bottom;
+}
+
+th.th-left-bottom
+{
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:left;
+margin-left:0em;
+text-indent:0em;
+font-weight: normal;
+border-bottom:1px solid #000000;
+padding:0.2em 0.2em 0.5em 0.5em;
+vertical-align:bottom;
+}
+th.th-left-bottom-no-border
+{
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:left;
+margin-left:0em;
+text-indent:0em;
+font-weight: normal;
+padding:0.2em 0.2em 0.5em 0.5em;
+vertical-align:bottom;
+}
+td.td-left-top
+{
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:left;
+margin-left:0em;
+text-indent:0em;
+font-weight: normal;
+padding:0.2em 0.2em 0.5em 0.5em;
+vertical-align:top;
+}
+td.td-left-middle
+{
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:left;
+margin-left:0em;
+text-indent:0em;
+font-weight: normal;
+padding:0.2em 0.2em 0.0em 0em;
+vertical-align:middle;
+}
+
+td.td-right-top
+{
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:right;
+margin-left:0em;
+text-indent:0em;
+font-weight: normal;
+padding:0.2em 0.2em 0.2em 0.2em;
+vertical-align:top;
+}
+td.td-center-top
+{
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:center;
+margin-left:0em;
+text-indent:0em;
+font-weight: normal;
+padding:0.2em 0.2em 0.2em 0.2em;
+vertical-align:top;
+}
+
+ul.tul-none
+{
+list-style-type:none;
+text-indent:0em;
+margin-left:0em;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+}
+
+ol.tol-none {
+text-indent:0em;
+margin-left:0.9em;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+}
+
+ul.tul
+{
+padding-left:0em;
+text-indent:0em;
+margin-left:0.9em;
+margin-top:0em;
+margin-bottom:0em;
+}
+ol.tol
+{
+padding-left:0em;
+text-indent:0em;
+margin-left:0.9em;
+margin-top:0em;
+margin-bottom:0em;
+}
+th.th-center-bottom-no-border
+{
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:center;
+margin-left:0em;
+text-indent:0em;
+font-weight: normal;
+padding:0.2em 0.2em 0.5em 0.5em;
+vertical-align:bottom;
+}
