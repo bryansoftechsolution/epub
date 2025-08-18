@@ -539,6 +539,8 @@ p.tab-para1a
 	padding-top:0.3em;
 	padding-bottom:0.3em;
     margin-top:0em;
+
+	
 }
 p.tab-caption
 {
@@ -566,7 +568,7 @@ text-indent: 0em;
 margin-top: 0em;
 padding-bottom: 10px;
 }
-p.figcap
+.figcap
 {
 	font-family:Arial;
     font-size:100%;
@@ -576,7 +578,7 @@ p.figcap
 	text-align:justify;
 	font-weight:normal;
 }
-p.figcapa
+.figcapa
 {
 	font-family:Arial;
     font-size:100%;
@@ -586,7 +588,7 @@ p.figcapa
 	text-align:justify;
 	font-weight:normal;
 }
-p.figcap1
+.figcap1
 {
 	font-family:Arial;
         font-size:100%;
@@ -1004,3 +1006,94 @@ font-weight: normal;
 padding:0.2em 0.2em 0.5em 0.5em;
 vertical-align:bottom;
 }
+
+
+/* 978-1-64802-781-920251002 Deiva priya */
+table.table-full-border
+{
+font-size:90%;
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:center;
+margin-left:0em;
+text-indent:0em;
+font-weight: normal;
+border-bottom:2px solid #000000;
+border-top:2px solid #000000;
+border-left:2px solid #000000;
+border-right:2px solid #000000;
+/*border:2px solid #000000;*/
+border-collapse:collapse;
+vertical-align:bottom;
+width:100%;
+}
+th.dark-head 
+{
+font-size:90%;
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:left;
+margin-left:0.5em;
+text-indent:0em;
+font-weight: normal;
+border-bottom:2px solid #000000;
+border-top:2px solid #000000;
+/*border:2px solid #000000;*/
+border-collapse:collapse;
+vertical-align:bottom;
+width:100%;
+color:#ffffff;
+background-color:#000000;
+padding-left:0.5em;
+}
+
+th.th-center-bottom-full
+{
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:center;
+margin-left:0em;
+text-indent:0em;
+font-weight: normal;
+border:1px solid #000000;
+padding:0.2em 0.2em 0.5em 0.5em;
+vertical-align:bottom;
+}
+th.th-center-bottom-full
+{
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:center;
+margin-left:0em;
+text-indent:0em;
+font-weight: normal;
+border:1px solid #000000;
+padding:0.2em 0.2em 0.5em 0.5em;
+vertical-align:bottom;
+}
+td.td-left-middle-border
+{
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:left;
+margin-left:0em;
+text-indent:0em;
+font-weight: normal;
+padding:0.5em 0.5em 0.5em 0.5em;
+vertical-align:middle;
+border:1px solid #000000;
+}
+
+td.td-center-middle-border
+{
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:center;
+margin-left:0em;
+text-indent:0em;
+font-weight: normal;
+padding:0.5em 0.5em 0.5em 0.5em;
+vertical-align:middle;
+border:1px solid #000000;
+}
+
