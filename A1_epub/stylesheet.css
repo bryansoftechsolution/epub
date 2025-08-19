@@ -413,7 +413,7 @@ h2.h2
 }
 .ref
 {
-	font-size:100%;
+	font-size:90%;
 	margin-top:0.1em;
 	margin-bottom:0em;
 	margin-left:2.5em;
@@ -460,6 +460,26 @@ h2.h2
 	text-indent:0em;
 	text-align:justify;
 }
+.block3
+{
+    font-size:100%;
+    margin-top:0em;
+    margin-bottom:0em;
+    margin-left:3em;
+    margin-right:2em;
+    text-indent:0em;
+    text-align:justify;
+}
+.block4
+{
+    font-size:100%;
+    margin-top:0em;
+    margin-bottom:1em;
+    margin-left:3em;
+    margin-right:2em;
+    text-indent:0em;
+    text-align:justify;
+} 
 .block
 {
 	font-size:90%;
