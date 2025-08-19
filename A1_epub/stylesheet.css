@@ -345,7 +345,7 @@ p.quote-author
 	text-align:center;
 	font-weight: normal;
 }
-.chap-title
+h1.chap-title
 {
 	display: block;
 	font-family:Arial;
@@ -358,7 +358,7 @@ p.quote-author
 	text-align:center;
 	font-weight: bold;
 }
-h2.chap-title1
+h1.chap-title1
 {
 	font-family:Arial;
 	font-size:150%;
