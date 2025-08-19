@@ -504,6 +504,16 @@ p.tab-para1a
 	text-indent:0em;
 	font-weight:normal;
 }
+.h3-bold
+{
+	font-family:Arial;
+	font-size:110%;
+	margin-top:1em;
+	margin-bottom:0.5em;
+	text-align:left;
+	text-indent:0em;
+	font-weight:bold;
+}
 .h4
 {
 	font-family:Arial;
