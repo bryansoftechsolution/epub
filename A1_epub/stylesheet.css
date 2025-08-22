@@ -973,6 +973,26 @@ list-style-type: none;
 padding: 0;
 margin: 0;
 }
+ol.endnote-list
+{
+text-indent:0em;
+margin-left:2em;
+margin-top:1em;
+margin-bottom:1em;
+text-align:justify;
+font-size:90%;
+}
+.note-block
+{
+    font-size:90%;
+	
+    margin-top:1em;
+    margin-bottom:1em;
+    margin-left:3em;
+    margin-right:1.5em;
+    text-indent:0em;
+    text-align:justify;
+}
 /* Chapter Standanred Tables */
 table.tablech
 {
