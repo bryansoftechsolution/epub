@@ -1469,6 +1469,16 @@ h3.h3c
 	padding-left:3em;
 	padding-right:3em;
 }
+p.li-para
+{
+    font-size:100%;
+    margin-top:0.1em;
+    margin-bottom:0em;
+    margin-left:2.5em;
+    text-indent:-2.5em;
+    text-align:justify;
+    float: left;
+} 
  /* 979-8-88730-088-720251002 Abarna Dharshini */
 h1.part-num
 {
