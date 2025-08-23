@@ -438,6 +438,16 @@ p.quote-author
     margin-right:1.5em;
     text-align:right;
 } 
+p.poem
+{
+    font-size:100%;
+    margin-top:0.1em;
+    margin-bottom:0em;
+    margin-left:1.5em;
+    text-indent:0em;
+    text-align:justify;
+}
+
 .chap-num
 {
 	font-family:Arial;
