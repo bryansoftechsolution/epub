@@ -1318,7 +1318,7 @@ th.heading
 table.table-full-border
 {
 font-size:90%;
-margin-top:0.3em;
+margin-top:2em;
 margin-bottom:0em;
 text-align:center;
 margin-left:0em;
@@ -1354,7 +1354,7 @@ width:100%;
 
 th.dark-head 
 {
-font-size:90%;
+font-size:115%;
 margin-top:0.3em;
 margin-bottom:0em;
 text-align:left;
@@ -1432,6 +1432,29 @@ padding:0.5em 0.5em 0.5em 0.5em;
 vertical-align:middle;
 border:1px solid #000000;
 }
+td.td-left-top-border
+{
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:left;
+margin-left:0em;
+text-indent:0em;
+font-weight: normal;
+padding:0.5em 0.5em 0.5em 0.5em;
+vertical-align:top;
+border:1px solid #000000;
+}
+th.th-left-top-full
+{
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:left;
+margin-left:0em;
+text-indent:0em;
+border:1px solid #000000;
+padding:0.2em 0.2em 0.5em 0.5em;
+vertical-align:top;
+} 
 th.th-centre-bottom-full
 {
 margin-top:0.3em;
