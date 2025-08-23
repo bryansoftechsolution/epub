@@ -1265,7 +1265,7 @@ vertical-align:bottom;
 {
     font-size:70%;
     margin-top:1em;
-    margin-bottom:1em;
+    margin-bottom:1.5em;
     margin-left:1.5em;
     margin-right:1.5em;
     text-align:center;
@@ -1435,6 +1435,31 @@ border:1px solid #000000;
 padding:0.2em 0.2em 0.5em 0.5em;
 vertical-align:bottom;
 background-color:#D0D0D0;
+}
+p.normal-box {
+	font-size:100%;
+	margin:0em 0em 0em 0em;
+	padding:0em 1em 0em 1em;
+	text-indent:0em;
+}
+p.para-ind-box {
+	font-size:100%;
+	margin:0em 0em 0em 0em;
+	padding:0em 1em 0em 1em;
+	text-indent:1.5em;	
+	text-align:justify;
+}
+h3.h3c
+{
+	font-family:Arial;
+	font-size:120%;
+	margin-top:2em;
+	margin-bottom:0.5em;
+	text-align:center;
+	text-indent:0em;
+	font-weight:bold;
+	padding-left:3em;
+	padding-right:3em;
 }
  /* 979-8-88730-088-720251002 Abarna Dharshini */
 h1.part-num
