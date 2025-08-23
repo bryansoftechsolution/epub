@@ -1325,6 +1325,25 @@ border-collapse:collapse;
 vertical-align:bottom;
 width:100%;
 }
+table.table-full-border-left
+{
+font-size:90%;
+margin-top:0.3em;
+margin-bottom:0em;
+text-align:left;
+margin-left:0em;
+text-indent:0em;
+font-weight: normal;
+border-bottom:2px solid #000000;
+border-top:2px solid #000000;
+border-left:2px solid #000000;
+border-right:2px solid #000000;
+/*border:2px solid #000000;*/
+border-collapse:collapse;
+vertical-align:bottom;
+width:100%;
+}
+
 th.dark-head 
 {
 font-size:90%;
