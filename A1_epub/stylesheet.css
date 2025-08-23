@@ -443,7 +443,7 @@ p.poem
     font-size:100%;
     margin-top:0.1em;
     margin-bottom:1em;
-    margin-left:1.5em;
+    margin-left:5em;
     text-indent:0em;
     text-align:justify;
 }
@@ -860,7 +860,7 @@ text-align:center;
 }
 p.tab-fn
 {
-        font-size:100%;
+        font-size:90%;
         margin-top:0.3em;
         margin-bottom:1.5em;
         text-align:left;
