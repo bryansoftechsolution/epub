@@ -1481,6 +1481,41 @@ padding:0.2em 0.2em 0.5em 0.5em;
 vertical-align:top;
 border:1px solid #000000;
 } 
+td.tab-head2
+{
+
+    font-family:Arial;
+    font-size:100%;
+    margin-top:0.5em;
+    margin-bottom:0.5em;
+    text-align:center;
+    margin-left:0em;
+    text-indent:4.5em;
+    font-weight: normal;
+}
+td.tab-para2
+{
+    font-family:Arial;
+    font-size:100%;
+    margin-top:0.8em;
+    margin-bottom:0.5em;
+    text-align:left;
+    margin-left:0em;
+    text-indent:0em;
+    font-weight: normal;
+}
+td.tab-para3
+{
+    font-family:Arial;
+    font-size:100%;
+    margin-top:0.5em;
+    margin-bottom:0.5em;
+    text-align:center;
+    margin-left:2em;
+    margin-right:0em;
+    text-indent:-7em;
+    font-weight: normal;
+} 
 p.normal-box {
 	font-size:100%;
 	margin:0em 0em 0em 0em;
